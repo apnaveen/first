@@ -10,4 +10,4 @@ if age >= 18:
     print("You are an adult")
 else:
     print("You are a minor")
-    port number =6890000;
+    port number =900vfvfvf00;
